@@ -1,6 +1,6 @@
 # APS Revit Addins
 
-A collection of Autodesk Platform Services (APS) add-ins for Revit.
+A collection of [Autodesk Platform Services (APS)](https://aps.autodesk.com/) add-ins for Revit.
 
 ## Overview
 
